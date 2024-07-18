@@ -1,4 +1,4 @@
-ESERCITAZIONE 08: MONTE CARLO VARIAZIONALE.
+ESERCITAZIONE 08: MONTE CARLO VARIAZIONALE
 
 Per la cartella Esercizio_08.1 valgono le seguenti istruzioni per:
 
